@@ -1,6 +1,8 @@
 # Web-API-For-Money-Transactions
 
--A Web API that manages money transactions between accounts for a bank written in Java programming language.
+-A Web API that manages money transactions between accounts for a bank.
+
+-Written in Java.
 
 -Built with Maven.
 
